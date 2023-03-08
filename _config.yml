@@ -1,3 +1,5 @@
+remote_theme: y7kim/agency-jekyll-theme
+
 url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
