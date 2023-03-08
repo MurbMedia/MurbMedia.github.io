@@ -1,5 +1,3 @@
-remote_theme: MurbMedia/murbmedia.github.io
-
 url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
@@ -65,3 +63,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+remote_theme: MurbMedia/murbmedia.github.io
